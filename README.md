@@ -26,7 +26,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sumitbhor" target="_blank">
+  <a href="https://www.linkedin.com/in/sumitbhor08" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/sumitbhor" target="_blank">
