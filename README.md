@@ -1,4 +1,26 @@
-## 👋 Hello! I'm Sumit Bhor
+# 👨‍💻 Sumit Bhor
+
+## 📌 About Me
+
+I am a motivated and curious **Computer Engineering student** with a strong interest in **full-stack development** and **programming**.
+
+### 💻 Skills:
+- Languages: C, C++, Python
+- Database: MySQL
+- Tools: Git, GitHub
+- Soft Skills: Team management, communication, consistency
+
+I enjoy building real-world projects and continuously improving my technical skills. I actively explore new technologies, contribute to GitHub, and focus on writing clean, efficient code.
+
+With good team management and communication skills, I strive to grow as a versatile and reliable developer ready to take on modern tech challenges.
+
+---
+
+## 🌐 Connect with Me
+
+- 📸 Instagram: [@sumitbhor_08](https://instagram.com/sumitbhor_08)
+- 💼 LinkedIn: [sumitbhor](https://linkedin.com/in/sumitbhor)
+- 🧑‍💻 GitHub: [sumitbhor](https://github.com/sumitbhor)
 
 ### 🛠️ Languages and Tools
 
