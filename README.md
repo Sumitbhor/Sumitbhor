@@ -1,6 +1,6 @@
 # 👨‍💻 Sumit Bhor
 
-## 📌 About Me
+
 
 I am a motivated and curious **Computer Engineering student** with a strong interest in **full-stack development** and **programming**.
 
@@ -19,7 +19,7 @@ With good team management and communication skills, I strive to grow as a versat
 ## 🌐 Connect with Me
 
 - 📸 Instagram: [@sumitbhor_08](https://instagram.com/sumitbhor_08)
-- 💼 LinkedIn: [sumitbhor](https://linkedin.com/in/sumitbhor)
+- 💼 LinkedIn: [sumitbhor](https://linkedin.com/in/sumitbhor08)
 - 🧑‍💻 GitHub: [sumitbhor](https://github.com/sumitbhor)
 
 ### 🛠️ Languages and Tools
