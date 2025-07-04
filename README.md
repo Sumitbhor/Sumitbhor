@@ -33,17 +33,17 @@ With good team management and communication skills, I strive to grow as a versat
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumitbhor&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" />
-</p>
-
 ## 👀 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbhor&layout=compact&theme=dracula" />
 
+</p>
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumitbhor&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" />
 </p>
 
 ## 👁‍🗨 Visitor Count
