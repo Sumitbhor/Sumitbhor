@@ -43,7 +43,18 @@ With good team management and communication skills, I strive to grow as a versat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbhor&layout=compact&theme=dracula" />
+
 </p>
+
+## 👁‍🗨 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sahilkamble11&color=blue&style=flat-square)
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilkamble11&theme=github-dark&hide_border=true)## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilkamble11&theme=github-dark&hide_border=true)
 
 ## 🌐 Connect with me
 
