@@ -47,10 +47,6 @@ With good team management and communication skills, I strive to grow as a versat
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sumitbhor&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" />
 </p>
 
-## 👁‍🗨 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sahilkamble11&color=blue&style=flat-square)
-
 ## 🌐 Connect with me
 
 <p align="left">
