@@ -41,12 +41,6 @@ With good team management and communication skills, I strive to grow as a versat
 
 </p>
 
-## 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sumitbhor&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0" />
-</p>
-
 ## 🌐 Connect with me
 
 <p align="left">
