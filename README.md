@@ -5,7 +5,7 @@
 I am a motivated and curious **Computer Engineering student** with a strong interest in **full-stack development** and **programming**.
 
 ### 💻 Skills:
-- Languages: C, C++, Python
+- Languages: C, C++, Python , java 
 - Database: MySQL
 - Tools: Git, GitHub
 - Soft Skills: Team management, communication, consistency
