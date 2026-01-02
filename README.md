@@ -34,10 +34,12 @@ With good team management and communication skills, I strive to grow as a versat
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## 👀 Most Used Languages
 
+<h3 align="center">📊 Most Used Languages (%)</h3>
 
- ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sumitbhor&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sumitbhor&layout=compact" />
+</p>
 
 
 
