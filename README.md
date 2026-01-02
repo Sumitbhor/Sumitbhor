@@ -36,10 +36,10 @@ With good team management and communication skills, I strive to grow as a versat
 
 ## 👀 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitbhor&layout=compact&theme=dracula" />
 
-</p>
+ ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sumitbhor&layout=compact)
+
+
 
 ## 🌐 Connect with me
 
